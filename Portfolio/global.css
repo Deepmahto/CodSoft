@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text: "Be Vietnam";
+
+  /* font sizes */
+  --text-size: 18px;
+  --font-size-sm: 14px;
+  --subtitle-size: 16px;
+  --section-title-size: 20px;
+
+  /* Colors */
+  --color-gray-100: #838383;
+  --outline: rgba(0, 0, 0, 0.12);
+  --color-gray-200: rgba(255, 255, 255, 0.87);
+  --color-black: #000;
+  --red: #e84949;
+  --navy-blue: #343d68;
+  --color-darkslateblue-100: rgba(52, 61, 104, 0.08);
+  --color-darkslategray: #262c4d;
+  --color-white: #fff;
+  --color-snow: #fffafa;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-9xs: 4px;
+  --gap-lgi: 19px;
+  --gap-46xl: 65px;
+  --gap-11xl: 30px;
+  --gap-14xl: 33px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-sm: 14px;
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+
+  /* Effects */
+  --dp: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.12),
+    0px 1px 3px rgba(0, 0, 0, 0.2);
+  --dp1: 0px 2px 2px rgba(0, 0, 0, 0.14), 0px 3px 1px rgba(0, 0, 0, 0.12),
+    0px 1px 5px rgba(0, 0, 0, 0.2);
+}
